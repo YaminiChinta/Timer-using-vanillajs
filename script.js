@@ -1,4 +1,4 @@
-var countDate = new Date('May 20, 2021 00:00:00').getTime();
+var countDate = new Date('May 30, 2021 00:00:00').getTime();
 
 const newYear = () => {
     var now = new Date().getTime();
